@@ -5,6 +5,8 @@
   "author": "josimarsousa <josimarjose@hotmail.com>",
   "license": "MIT",
   "dependencies": {
+    "-": "^0.0.1",
+    "html-webpack-plugin": "^5.5.0",
     "react": "^17.0.2"
   },
   "devDependencies": {
@@ -15,6 +17,7 @@
     "babel-loader": "^8.2.3",
     "react-dom": "^17.0.2",
     "webpack": "^5.64.4",
-    "webpack-cli": "^4.9.1"
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.6.0"
   }
 }
