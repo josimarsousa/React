@@ -1,14 +1,11 @@
 import './styles/global.scss'
+import '../src/styles/repositories.scss'
 import { RepositoryList } from './components/RepositoryList'
-import { Counter } from './components/Counter'
+
 
 //componete do react
 export function App() {
    return(
-   //fragmento  
-   <>
       <RepositoryList/>
-      <Counter />
-   </>
    )
 }
